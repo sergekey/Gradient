@@ -1,0 +1,12 @@
+.main-title {
+    font-family: sans-serif;
+    font-size: 455px;
+    font-weight: normal;
+    text-transform: uppercase;
+    display: inline-block;
+    background-image: linear-gradient(to right, $color-one, $color-two);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    margin: 0 auto;
+}

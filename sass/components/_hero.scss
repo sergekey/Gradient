@@ -1,0 +1,8 @@
+.hero {
+    border: solid 30px;
+    border-image: linear-gradient(to right, $color-one, $color-two);
+    border-image-slice: 1;
+    box-sizing: border-box;
+    max-width: $container-widths;
+    height: auto;
+}

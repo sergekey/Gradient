@@ -1,0 +1,22 @@
+.main-title {
+  font-family: sans-serif;
+  font-size: 455px;
+  font-weight: normal;
+  text-transform: uppercase;
+  display: inline-block;
+  background-image: linear-gradient(to right, #06858a, #05d9ff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  margin: 0 auto; }
+
+.u-center {
+  text-align: center; }
+
+.hero {
+  border: solid 30px;
+  border-image: linear-gradient(to right, #06858a, #05d9ff);
+  border-image-slice: 1;
+  box-sizing: border-box;
+  max-width: 1440px;
+  height: auto; }
